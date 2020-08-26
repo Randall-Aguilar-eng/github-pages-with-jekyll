@@ -1,4 +1,8 @@
-title: Awesome Page
+---
+title: "Welcome to my new tech blog"
+date: 2020-08-26
+---
+
 author: GitHub Randagui
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,3 +14,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
