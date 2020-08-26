@@ -1,5 +1,5 @@
 ---
-title: Welcome to my new tech blog
+title: "Welcome to my new tech blog"
 date: 2020-08-26
 ---
 
